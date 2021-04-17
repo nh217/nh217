@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadahamdy217
+- 👋 Hi, I’m @nh217
 - 👀 I’m interested in data science and cyber security
 - 🌱 I’m currently learning data science
 
